@@ -1,4 +1,4 @@
-# Football Tracking Assignment Submission
+# Football-drill-object-tracker
 
 ## Files Included
 - `report.doc`: Methodology, models, and tracking approach
